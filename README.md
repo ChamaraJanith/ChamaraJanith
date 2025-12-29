@@ -51,3 +51,17 @@ const ChamaraAbeyrathna = {
   <img src="https://img.shields.io/badge/ML_Fundamentals-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-00A6ED?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+## 🚀 Featured Missions
+
+* **Cinemaverse 🎬** - AI-powered movie hub using MERN, Three.js, and Google Gemini.
+* **GameHub 🎮** - Native Android platform with Kotlin, Retrofit, and MVVM architecture.
+* **Professional Chess ♟️** - Real-time multiplayer app using React 18 and WebSockets.
+* **Glucose Tracker 📊** - Healthcare tool featuring OCR and ML Kit integration.
+
+## 🏆 Key Certifications
+
+* **DP-203: Azure Data Engineer Associate** (Microsoft).
+* **Generative AI Fundamentals** (Google).
+* **AIML Engineer Stage 1 & 2** (SLIIT).
+* **Python for Beginners** (University of Moratuwa).
