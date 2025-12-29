@@ -71,6 +71,11 @@ const ChamaraAbeyrathna = {
 
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DChamaraJanith%26theme%3Dtokyonight%26hide_border%3Dtrue%26stroke%3D3ABFEF%26ring%3D3ABFEF%26fire%3DFF9900" height="200" /> </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamaraJanith&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamaraJanith&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
 <div align="center"> 💡 <b>Open for Software Engineering Internship opportunities!</b>
 
 
