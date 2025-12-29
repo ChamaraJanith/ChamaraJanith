@@ -27,14 +27,12 @@
     </td>
     <td width="50%" valign="top">
       <h3>💻 Current Focus</h3>
-      ```typescript
       const status = {
         mobile: "Jetpack Compose",
         backend: "Node.js & TS",
         ai: "Gemini / LLMs",
         learning: "Real-Time Systems"
       };
-      ```
     </td>
   </tr>
 </table>
