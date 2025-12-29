@@ -1,95 +1,80 @@
-# Chamara Abeyrathna 👋
-
 <div align="center">
-  
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Chamara%20Abeyrathna&fontSize=70&animation=fadeIn&fontAlignY=38"  width="100%"/>
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+Specialist;AI+Enthusiast;3rd+Year+SE+Student+@+SLIIT)
 
-  [![GitHub followers](https://img.shields.io/github/followers/ChamaraJanith?label=Follow&style=social)](https://github.com/ChamaraJanith)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamara-abeyrathna-a22353376/)
-  
+  <p align="center">
+    <a href="https://linkedin.com/in/chamara-abeyrathna-a22353376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/ChamaraJanith"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=ChamaraJanith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamaraJanith&repo=Cinemaverse&theme=tokyonight" align="right" width="45%"/>
+</p>
 
-<table align="center">
+> **"From Biology to Technology ➔ Exploring the Infinite Possibilities of Code"**
+
+A dedicated 3rd-year Software Engineering undergraduate at SLIIT, driven by the passion to build high-impact digital solutions. I specialize in merging mobile performance with AI intelligence.
+
+* 📍 **Base:** Sri Lanka 🇱🇰
+* 🎓 **Academic:** B.Sc (Hons) SE @ SLIIT | **GPA: 3.44**
+* ⚡ **Strengths:** Rapid Learning, Problem Solving, Clean Architecture.
+
+<br clear="both"/>
+
+---
+
+## 🛠️ TECH ARSENAL
+
+| Category | Skills |
+| :--- | :--- |
+| **Mobile** | `Kotlin` `Jetpack Compose` `Android SDK` `Room DB` `Retrofit` |
+| **Web & Backend** | `React.js` `Node.js` `TypeScript` `PostgreSQL` `Tailwind` |
+| **AI & Data** | `Google Gemini API` `LLMs` `Python` `Azure Data Fundamentals` |
+| **Tools** | `Git` `Docker` `VS Code` `Linux` `Firebase` |
+
+---
+
+## 🚀 FEATURED MISSIONS
+
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Profile Summary</h3>
-      <ul>
-        <li>🌍 <b>Location:</b> Sri Lanka 🇱🇰</li>
-        <li>🎓 <b>Education:</b> B.Sc (Hons) SE @ SLIIT</li>
-        <li>📈 <b>GPA:</b> 3.44 / 4.00</li>
-        <li>💡 <b>Journey:</b> Biology ➔ Technology</li>
-        <li>🧬 <b>Mission:</b> Solving complex challenges through code.</li>
-      </ul>
+    <td>
+      <b>🎬 Cinemaverse</b><br>
+      <i>AI-powered movie hub using MERN, Three.js, and Google Gemini.</i>
     </td>
-    <td width="50%" valign="top">
-      <h3>💻 Current Focus</h3>
-      ```typescript
-      const status = {
-        mobile: "Jetpack Compose",
-        backend: "Node.js & TS",
-        ai: "Gemini / LLMs",
-        learning: "Real-Time Systems"
-      };
-      ```
+    <td>
+      <b>🎮 GameHub</b><br>
+      <i>Native Android platform with Kotlin, Retrofit, and MVVM architecture.</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>♟️ Professional Chess</b><br>
+      <i>Real-time multiplayer app using React 18 and WebSockets.</i>
+    </td>
+    <td>
+      <b>📊 Glucose Tracker</b><br>
+      <i>Healthcare tool featuring OCR and ML Kit integration.</i>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room_DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🌐 Web & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-## 🚀 Featured Missions
-
-* **Cinemaverse 🎬** - AI-powered movie hub using MERN and Google Gemini.
-* **GameHub 🎮** - Native Android platform with Kotlin and MVVM.
-* **Professional Chess ♟️** - Real-time multiplayer app using React 18.
-* **Glucose Tracker 📊** - Healthcare tool with OCR integration.
-
-## 🏆 Key Certifications
-
-* **DP-203: Azure Data Engineer Associate** (Microsoft).
-* **Generative AI Fundamentals** (Google).
-* **AIML Engineer Stage 1 & 2** (SLIIT).
-
----
-
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChamaraJanith&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamaraJanith&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF" height="180" />
 </div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamaraJanith&theme=tokyonight&hide_border=true&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
@@ -98,5 +83,7 @@
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <br><br>
   💡 <b>Open for Software Engineering Internship opportunities!</b>
 </div>
