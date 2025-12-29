@@ -1,12 +1,3 @@
-Elakiri machan! Api Tools & Systems section ekath ekathu karamu. Ethakota oyage profile eka thawa professional wenawa. Docker, Git, VS Code wage tools thibbaama hiring managers la oyage workflow eka gana hodata danna puluwan.
-
-Mama pahala thiyenne Tools & Systems section ekath athulath karapu, okkoma fix karapu Final Final Code eka.
-
-🚀 The Ultimate GitHub Profile Code
-Meeke About Me block eka, Tech Arsenal (Mobile, Web, AI), Tools & Systems, Featured Missions, saha Analytics okkoma piliwelata thiyenawa. Meeka sampurnayen copy-paste karanna.
-
-Markdown
-
 # Chamara Abeyrathna 👋
 
 <div align="center">
