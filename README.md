@@ -1,4 +1,4 @@
-# Chamara Abeyrathna
+# Chamara Abeyrathna 👋
 
 <div align="center">
   
@@ -10,15 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=ChamaraJanith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 ```typescript
 const ChamaraAbeyrathna = {
     location: "Sri Lanka 🇱🇰",
-    education: "B.Sc (Hons) in Software Engineering @ SLIIT (Year 3)",
+    education: "B.Sc (Hons) in Software Engineering @ SLIIT",
     gpa: "3.44 / 4.00",
     journey: "Biology ➔ Technology 🚀",
     roles: ["Mobile Specialist", "Full Stack Developer", "AI Integrator"],
-    currentFocus: ["Advanced Android (Jetpack Compose)", "Generative AI", "Real-Time Systems"],
-    lifePhilosophy: "Navigating the universe of code to solve complex challenges."
+    currentFocus: ["Jetpack Compose", "Generative AI", "Real-Time Systems"],
+    skills: "15+ Projects & 13+ Certifications"
 };
