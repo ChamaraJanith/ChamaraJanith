@@ -14,6 +14,11 @@
 
 ## 👨‍💻 About Me
 
+```typescript
+/**
+ * Professional Profile
+ * Specializing in Mobile, Web & AI Solutions
+ */
 const ChamaraAbeyrathna = {
     location: "Sri Lanka 🇱🇰",
     education: "B.Sc (Hons) in Software Engineering @ SLIIT",
