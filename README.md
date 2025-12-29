@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+Specialist;AI+Enthusiast;3rd+Year+SE+Student+@+SLIIT)
 
   [![GitHub followers](https://img.shields.io/github/followers/ChamaraJanith?label=Follow&style=social)](https://github.com/ChamaraJanith)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamara-abeyrathna/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamara-abeyrathna-a22353376/)
   
   <img src="https://komarev.com/ghpvc/?username=ChamaraJanith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
