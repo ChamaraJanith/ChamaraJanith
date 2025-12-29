@@ -17,22 +17,25 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Journey & Vision</h3>
-      <p>I am a 3rd-year Software Engineering undergraduate at SLIIT, transitioned from a <b>Biology background</b> to the world of technology. I specialize in building high-performance mobile apps and AI-driven solutions.</p>
+      <h3>🚀 Profile Summary</h3>
       <ul>
         <li>🌍 <b>Location:</b> Sri Lanka 🇱🇰</li>
-        <li>🎓 <b>GPA:</b> 3.44 / 4.00</li>
-        <li>💡 <b>Goal:</b> Bridging AI with real-world mobile experiences.</li>
+        <li>🎓 <b>Education:</b> B.Sc (Hons) SE @ SLIIT</li>
+        <li>📈 <b>GPA:</b> 3.44 / 4.00</li>
+        <li>💡 <b>Journey:</b> Biology ➔ Technology</li>
+        <li>🧬 <b>Mission:</b> Solving complex challenges through code.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Current Focus</h3>
+      ```typescript
       const status = {
         mobile: "Jetpack Compose",
         backend: "Node.js & TS",
         ai: "Gemini / LLMs",
         learning: "Real-Time Systems"
       };
+      ```
     </td>
   </tr>
 </table>
@@ -66,10 +69,10 @@
 
 ## 🚀 Featured Missions
 
-* **Cinemaverse 🎬** - AI-powered movie hub using MERN, Three.js, and Google Gemini.
-* **GameHub 🎮** - Native Android platform with Kotlin, Retrofit, and MVVM architecture.
-* **Professional Chess ♟️** - Real-time multiplayer app using React 18 and WebSockets.
-* **Glucose Tracker 📊** - Healthcare tool featuring OCR and ML Kit integration.
+* **Cinemaverse 🎬** - AI-powered movie hub using MERN and Google Gemini.
+* **GameHub 🎮** - Native Android platform with Kotlin and MVVM.
+* **Professional Chess ♟️** - Real-time multiplayer app using React 18.
+* **Glucose Tracker 📊** - Healthcare tool with OCR integration.
 
 ## 🏆 Key Certifications
 
@@ -77,12 +80,16 @@
 * **Generative AI Fundamentals** (Google).
 * **AIML Engineer Stage 1 & 2** (SLIIT).
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChamaraJanith&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamaraJanith&layout=compact&theme=tokyonight&hide_border=true&title_color=3ABFEF" height="180" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamaraJanith&theme=tokyonight&hide_border=true&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
