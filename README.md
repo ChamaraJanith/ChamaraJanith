@@ -69,7 +69,7 @@ A dedicated 3rd-year Software Engineering undergraduate at SLIIT, driven by the 
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChamaraJanith&show_icons=true&theme=tokyonight&hide_border=true&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
@@ -77,13 +77,5 @@ A dedicated 3rd-year Software Engineering undergraduate at SLIIT, driven by the 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamaraJanith&theme=tokyonight&hide_border=true&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-  <br><br>
-  💡 <b>Open for Software Engineering Internship opportunities!</b>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamaraJanith&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
 </div>
