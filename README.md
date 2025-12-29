@@ -10,11 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=ChamaraJanith&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
-```typescript
+
 const ChamaraAbeyrathna = {
     location: "Sri Lanka 🇱🇰",
     education: "B.Sc (Hons) in Software Engineering @ SLIIT",
