@@ -21,7 +21,7 @@
       <p>💡 <b>My Journey:</b> From Biology to Technology — I'm obsessed with how code can solve real-world problems. Currently focusing on building high-performance mobile apps integrated with AI.</p>
       <p>🎓 <b>GPA:</b> 3.44 / 4.00</p>
       <p>📍 <b>Based in:</b> Sri Lanka 🇱🇰</p>
-      <p>⚡ <b>Fun Fact:</b> I love exploring LLMs and Clean Architecture patterns.</p>
+      <p>⚡ <b>Fun Fact:</b> I love Finding Bugs and Find Loopholes.</p>
     </td>
     <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChamaraJanith&repo=Cinemaverse&theme=tokyonight" width="100%"/>
